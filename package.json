@@ -1,0 +1,16 @@
+{
+  "author": "Christopher de Beer <christopherdebeer@gmail.com> (http://github.com/christopherdebeer)",
+  "name": "depot",
+  "description": "Open source project template repository",
+  "version": "0.0.0",
+  "homepage": "http://github.com/christopherdebeer/depot",
+  "repository": {
+    "url": ""
+  },
+  "main": "depot.js",
+  "engines": {
+    "node": "~0.6.3"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
